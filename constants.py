@@ -64,7 +64,7 @@ WEB_URL_LOAD_TARGETS = [
 RETRIEVER_K = 5
 # ドキュメントのチャンク分割サイズ
 CHUNK_SIZE = 500
-# チャンク分割時のオーバーラップサイズ
+# チャンク分割時のオーラップサイズ
 CHUNK_OVERLAP = 50
 
 
